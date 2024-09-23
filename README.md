@@ -1,5 +1,7 @@
 # Remove-Microsoft-Edge
 
+Englist | [简体中文](./README.zh-CN.md)
+
 ### Description
 This PowerShell script is designed to completely remove Microsoft Edge from your Windows system. It includes steps to elevate privileges, terminate Edge-related processes, locate and uninstall Edge setup files, remove Edge appx packages, and clean up related MSI installers. This script ensures a thorough removal of Microsoft Edge and its components.
 
