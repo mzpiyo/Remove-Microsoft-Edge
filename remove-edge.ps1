@@ -50,5 +50,5 @@ $edgeUpdates | foreach {
     }
 }
 
-# 可选：通知完成并建议安装其他浏览器
+# 通知完成
 Write-Host "Microsoft Edge 已被移除！"
