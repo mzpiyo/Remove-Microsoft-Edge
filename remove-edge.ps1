@@ -51,4 +51,4 @@ $edgeUpdates | foreach {
 }
 
 # 通知完成
-Write-Host "Microsoft Edge 已被移除！"
+Write-Host "Microsoft Edge has been removed!"
