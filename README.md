@@ -49,3 +49,5 @@ This PowerShell script is designed to completely remove Microsoft Edge from your
 #### Note
 - This script is intended for advanced users who are comfortable with PowerShell and system administration tasks.
 - Use this script at your own risk. Ensure you have backups of any important data before proceeding.
+
+- This script references [ishad0w/aveyo_edge_removal.bat](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8).
