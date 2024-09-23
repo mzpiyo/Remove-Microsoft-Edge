@@ -47,3 +47,4 @@
 #### 注意
 - 此脚本适用于熟悉 PowerShell 和系统管理任务的高级用户。
 - 使用此脚本需自行承担风险。请确保在继续操作之前备份任何重要数据。
+- 此脚本引用 [ishad0w/aveyo_edge_removal.bat](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8).
